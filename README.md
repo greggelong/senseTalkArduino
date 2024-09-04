@@ -14,6 +14,8 @@ selfCreatedVoice  is recorded in Audiacity and turned into LPC with Blue Wizard.
 
 distanceTalk is using pin 5 for trig and pin 6 for echo 
 
+distanceTalk is based on code from the talkie examble but has been changed to use a different distance library and adding more warnings
+
 all sketches using the talkie library are using pin 3 and 11 for audio output.
 
 
